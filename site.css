@@ -25,12 +25,12 @@ h1
   background-color: aquamarine;
   margin: 0;
   background: #59f889 url("img/ecologia.png") no-repeat scroll 50px 25px;
+  border-top: #48ff00 10px;
   text-decoration: none;
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
-
   
   
   
@@ -49,6 +49,7 @@ h2{
     font-size: 40px;
     background-color: #59f889;
     margin: 90px 300px;
+    margin: 200px;
 
 }
 
@@ -77,4 +78,8 @@ h4
 border: #59f889;
 text-align: center;
 font-size: 30px;
+}
+
+img{
+    max-width: 100%;
 }
